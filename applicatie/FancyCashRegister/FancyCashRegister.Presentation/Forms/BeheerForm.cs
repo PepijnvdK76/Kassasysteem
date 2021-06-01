@@ -1,4 +1,4 @@
-﻿using FancyCashRegister.Domain.Models;
+using FancyCashRegister.Domain.Models;
 using FancyCashRegister.Services.Helpers;
 using FancyCashRegister.Services.Data;
 using System;
